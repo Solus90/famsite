@@ -1,5 +1,7 @@
 <template>
     <Layout>
+        <div class="hero-image -mt-24 p-8">
+      <div class="mx-4 md:mx-20 mt-48">
         <!-- Back to Blog Button -->
         <g-link to="/blog/"><button class="text-blue-500">&larr; Back</button></g-link>
 
@@ -15,7 +17,8 @@
         <!-- Blog Post -->
         <div v-html="$page.post.content" class="space-y-6"/>
         </article>
-
+      </div>
+      </div>
     </Layout>
 </template>
 
