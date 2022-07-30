@@ -83,4 +83,8 @@ query {
   @apply text-white;
 }
 
+footer a:hover img{
+  transform: scale(1.1);
+}
+
 </style>
