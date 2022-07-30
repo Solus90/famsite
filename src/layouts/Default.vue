@@ -4,7 +4,9 @@
     <!-- Header & Navigation -->
     <header class="flex flex-col md:flex-row items-center justify-between text-center">
       <strong>
+        <a href="/">
         <img src="/assets/images/fambanner.png" alt="FAM" style="width: 300px;" class="mx-4 md:pt-4">
+        </a>
       </strong>
       <nav class="mx-4 flex gap-x-4 text-gray-600">
         <g-link class="nav__link" to="/">Home</g-link>
