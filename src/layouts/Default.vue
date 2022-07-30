@@ -26,17 +26,34 @@
             <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white text-white">ForAllManakind</span>
         </a>
         <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
-            <li>
-                <a href="#" class="mr-4 hover:underline md:mr-6 ">About</a>
+            <li class="md:mx-2">
+                <a href="#" class="mr-4 hover:underline md:mr-6 ">
+                  <img src="/assets/images/icons8-twitter-50.png" alt="">
+                </a>
             </li>
-            <li>
-                <a href="#" class="mr-4 hover:underline md:mr-6">Privacy Policy</a>
+            <li class="md:mx-2">
+                <a href="#" class="mr-4 hover:underline md:mr-6">
+                  <img src="/assets/images/icons8-twitch-50.png" alt=""></a>
             </li>
-            <li>
-                <a href="#" class="mr-4 hover:underline md:mr-6 ">Licensing</a>
+            <li class="md:mx-2">
+                <a href="#" class="mr-4 hover:underline md:mr-6 ">
+                  <img src="/assets/images/icons8-tiktok-50.png" alt="">
+                </a>
             </li>
-            <li>
-                <a href="mailto:FAM@forallmanakind.com" class="hover:underline" target="_blank">Contact</a>
+            <li class="md:mx-2">
+                <a href="#" class="mr-4 hover:underline md:mr-6 ">
+                  <img src="/assets/images/icons8-instagram-50.png" alt="">
+                </a>
+            </li>
+            <li class="md:mx-2">
+                <a href="#" class="mr-4 hover:underline md:mr-6 ">
+                  <img src="/assets/images/icons8-discord-new-50.png" alt="">
+                </a>
+            </li>
+            <li class="md:mx-2">
+                <a href="mailto:FAM@forallmanakind.com" class="mr-4 hover:underline md:mr-6" target="_blank">
+                  <img src="/assets/images/icons8-open-envelope-50.png" alt="">
+                </a>
             </li>
         </ul>
     </div>
