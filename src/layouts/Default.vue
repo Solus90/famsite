@@ -36,7 +36,7 @@
                 <a href="#" class="mr-4 hover:underline md:mr-6 ">Licensing</a>
             </li>
             <li>
-                <a href="#" class="hover:underline">Contact</a>
+                <a href="mailto: abc@example.com" class="hover:underline">Contact</a>
             </li>
         </ul>
     </div>
