@@ -2,7 +2,13 @@
   <Layout>
     <div class="hero-image -mt-24 p-8">
       <div class="mx-4 md:mx-20 mt-48 md:grid md:grid-cols-2 md:gap-24">
-        <img src="/assets/images/thefam.jpeg" style="rounded" />
+        <!-- <img src="/assets/images/thefam.jpeg" style="rounded" /> -->
+        <iframe
+    src="https://player.twitch.tv/?channel=forallmanakind&parent=localhost&muted=true"
+    height="360"
+    width="100%"
+    allowfullscreen>
+</iframe>
 
         <div class="blurb">
           <p class="text-white">
