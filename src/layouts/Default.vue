@@ -29,26 +29,26 @@
         </a>
         <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
             <li class="md:mx-2">
-                <a href="#" class="mr-4 hover:underline md:mr-6 ">
+                <a href="https://twitter.com/ForAllManakind" class="mr-4 hover:underline md:mr-6" target="_blank">
                   <img src="/assets/images/icons8-twitter-50.png" alt="">
                 </a>
             </li>
             <li class="md:mx-2">
-                <a href="#" class="mr-4 hover:underline md:mr-6">
+                <a href="https://www.twitch.tv/forallmanakind" class="mr-4 hover:underline md:mr-6" target="_blank">
                   <img src="/assets/images/icons8-twitch-50.png" alt=""></a>
             </li>
             <li class="md:mx-2">
-                <a href="#" class="mr-4 hover:underline md:mr-6 ">
+                <a href="https://www.tiktok.com/@forallmanakind" class="mr-4 hover:underline md:mr-6" target="_blank">
                   <img src="/assets/images/icons8-tiktok-50.png" alt="">
                 </a>
             </li>
             <li class="md:mx-2">
-                <a href="#" class="mr-4 hover:underline md:mr-6 ">
+                <a href="https://www.instagram.com/forallmanakind/" class="mr-4 hover:underline md:mr-6" target="_blank">
                   <img src="/assets/images/icons8-instagram-50.png" alt="">
                 </a>
             </li>
             <li class="md:mx-2">
-                <a href="#" class="mr-4 hover:underline md:mr-6 ">
+                <a href="https://discord.com/invite/c29SY9U" class="mr-4 hover:underline md:mr-6" target="_blank">
                   <img src="/assets/images/icons8-discord-new-50.png" alt="">
                 </a>
             </li>
