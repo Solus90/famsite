@@ -1,9 +1,9 @@
 <template>
     <div>
-        <h3 class="text-lg font-bold" v-html="post.title"/>
-        <span class="block text-sm font-bold text-gray-600" v-html="post.date"/>
+        <h3 class="text-2xl font-bold" v-html="post.title"/>
+        <span class="block text-sm font-bold text-white" v-html="post.date"/>
         <p class="my-2" v-html="post.description"/>
-        <g-link :to="post.path"><button class="text-blue-500">Read &rarr;</button></g-link>
+        <g-link :to="post.path"><button class="text-blue-300">Read &rarr;</button></g-link>
     </div>
 </template>
 

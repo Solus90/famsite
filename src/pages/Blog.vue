@@ -2,7 +2,7 @@
   <Layout>
     <div class="hero-image -mt-24 p-8">
       <div class="mx-4 md:mx-20 mt-48">
-        <h1 class="text-xl mb-2">Welcome to your Blog!</h1>
+        <h1 class="text-4xl mb-2 text-white">Welcome to your Blog!</h1>
 
         <div class="space-y-4">
           <BlogFeedPost

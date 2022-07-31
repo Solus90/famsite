@@ -52,6 +52,14 @@ query Post ($path: String!) {
 
 <style>
 /* Apply Global Article Styles Here */
+
+.hero-image {
+  background-image: url("/assets/images/fambg.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
 article h2 {
     @apply text-xl font-bold;
 }
