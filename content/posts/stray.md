@@ -13,7 +13,7 @@ date: 2022-07-31
 
 <p class="text-md text-white">Stray goes well beyond what could have just been a gimmick and has given us one of the best games this year has to offer.</p>
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/7fXKLHihF3A/0.jpg)](https://www.youtube.com/shorts/7fXKLHihF3A "Stray Review in 60 Seconds")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/7fXKLHihF3A/0.jpg)](https://www.youtube.com/shorts/7fXKLHihF3A "Stray Review in 60 Seconds")
 
 
 
