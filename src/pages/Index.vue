@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div class="hero-image -mt-24 p-8">
-      <div class="mx-4 md:mx-20 mt-48 md:grid md:grid-cols-2 md:gap-24">
+      <div class="mx-4 md:mx-20 mt-48 md:grid md:grid-cols-2 md:gap-8">
         <!-- <img src="/assets/images/thefam.jpeg" style="rounded" /> -->
         <iframe
     src="https://player.twitch.tv/?channel=forallmanakind&parent=localhost&muted=true"
@@ -10,7 +10,7 @@
     allowfullscreen>
 </iframe>
 
-        <div class="blurb">
+        <div class="blurb mx-2">
           <p class="text-white">
             For All Manakind is a group of three content creators, Tim, Trey,
             and Trevor, based out of Ohio. They have been creating gaming
